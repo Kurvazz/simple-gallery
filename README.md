@@ -1,5 +1,6 @@
 Proyek ini berupa galeri foto berbentuk website hasil tutorial dipadukan sedikit "tweaking" dari saya
 Fitur yang ada pada website sebagai berikut : 
+
 1.Register : 
 ![image](https://github.com/Kurvazz/simple-gallery/assets/90537053/b50e4b00-0a10-45b1-a6c7-08ab207ee62e)
 2.Main page :
