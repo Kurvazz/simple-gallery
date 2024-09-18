@@ -1,5 +1,4 @@
-Proyek ini berupa galeri foto berbentuk website hasil tutorial dipadukan sedikit "tweaking" dari saya
-Fitur yang ada pada website sebagai berikut : 
+Proyek ini merupakan aplikasi galeri foto sederhana yang dikembangkan sebagai bagian dari uji kompetensi. Fitur utama mencakup pratinjau foto untuk pengguna yang belum login, namun tanpa opsi komentar atau like. Setelah login, pengguna dapat membuat album baru dan mengunggah foto, yang dilindungi dari modifikasi oleh pengguna lain. Pengguna lain dapat berinteraksi dengan memberi komentar dan like pada foto yang diunggah
 
 1.Register : 
 ![image](https://github.com/Kurvazz/simple-gallery/assets/90537053/b50e4b00-0a10-45b1-a6c7-08ab207ee62e)
